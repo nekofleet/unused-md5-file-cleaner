@@ -4,7 +4,7 @@ A editor plugin to clean up unused ".godot/imported/*.md5" files.
 ## How to install
 
 ### (1) Download ZIP file
-[ &lt;&gt; Code ](green button) &gt; Download ZIP  
+\[ Code \](green button) &gt; Download ZIP  
 *(If you want all files, please use git clone)*
 
 ### (2) Copy files
